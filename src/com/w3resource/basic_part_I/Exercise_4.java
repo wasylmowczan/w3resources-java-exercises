@@ -1,6 +1,7 @@
 package com.w3resource.basic_part_I;
 
 public class Exercise_4  {
+
     /*
     Write a Java program to print the result of the following operations.
     Test Data:

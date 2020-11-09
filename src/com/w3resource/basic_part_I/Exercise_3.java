@@ -3,6 +3,7 @@ package com.w3resource.basic_part_I;
 import java.util.Scanner;
 
 public class Exercise_3 {
+
     /*
     Write a Java program to divide two numbers and print on the screen.
      */
