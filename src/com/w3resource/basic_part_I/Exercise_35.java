@@ -1,6 +1,6 @@
 package com.w3resource.basic_part_I;
 
-public class Exersice_35 {
+public class Exercise_35 {
     public static void main(String[] args) {
         System.out.println("Java Version: " + System.getProperty("java.version"));
         System.out.println("Java Runtime Version: " + System.getProperty("java.runtime.version"));
