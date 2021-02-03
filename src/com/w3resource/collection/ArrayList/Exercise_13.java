@@ -1,19 +1,17 @@
 package com.w3resource.collection.ArrayList;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 
 public class Exercise_13 {
     public static void main(String[] args) {
-        ArrayList<String> c1= new ArrayList<String>();
+        ArrayList<String> c1 = new ArrayList<String>();
         c1.add("Red");
         c1.add("Green");
         c1.add("Black");
         c1.add("White");
         c1.add("Pink");
 
-        ArrayList<String> c2= new ArrayList<String>();
+        ArrayList<String> c2 = new ArrayList<String>();
         c2.add("Red");
         c2.add("Green");
         c2.add("Black");

@@ -1,7 +1,6 @@
 package com.w3resource.collection.ArrayList;
 
 import java.util.LinkedList;
-import java.util.List;
 
 public class Exercise_3 {
     public static void main(String[] args) {
